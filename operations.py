@@ -9,6 +9,12 @@ def add_numbers(a, b):
     """
     return a + b
 
+def subtract_numbers(a, b):
+    """
+    Adds two numbers and returns the result.
+    """
+    return a - b
+
 
 # Usage example:
 result = add_numbers(5, 3)
